@@ -1,6 +1,6 @@
 # catchTheRick
 Görsellerin random bir şekilde ekranda gözüktüğü Alert mesajanın bulunduğu resimlere tıklandıkça score' un arttığı en yüksek scorun saklandığı swift ile
-zamana karşı bir kolay bir oyun denemesi.
+zamana karşı kolay bir oyun denemesi.
 
 Timer,Alert,UserDefault
 
